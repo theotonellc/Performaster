@@ -100,7 +100,7 @@ Workflow:
 - **Music Education**
   Helps students understand interpretative decision making and develop expressive control.
 
--**Research**
+- **Research**
   Enables quantitative analysis of performance practice and stylistic differences.
 
 - **Practice Tools**
